@@ -20,6 +20,9 @@
   <a href="https://github.com/ArianeSousa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=6&theme=dracula"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArianeSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="300em" src="https://media2.giphy.com/media/3ohs7QkCzFOIyuXNqE/giphy.gif"/>
     
   
    <a href="https://www.instagram.com/ariih.sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+    
